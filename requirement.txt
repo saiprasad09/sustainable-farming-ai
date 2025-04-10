@@ -1,9 +1,4 @@
-__pycache__/
-*.pyc
-*.db
-.env
-.DS_Store
 streamlit
 pandas
-scikit-learn
 numpy
+scikit-learn
