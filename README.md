@@ -40,11 +40,15 @@ ML models used:
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live app here: [Sustainable Farming AI App](https://sustainable-farming-ai.streamlit.app/)
+
+---
+
 💻 Installation & Running Locally
 
 1️⃣ Clone the Repository  
-```bash
-
 git clone https://github.com/Saiprasad09/sustainable-farming-ai.git
 cd sustainable-farming-ai
 gipip install -r requirements.txt
